@@ -1,0 +1,420 @@
+Nom,Equipe,Age,Poste,apps,min,goals,assists,xG,xA,xG90,xA90,xG90xA90,Valeur marchande(mio),SHOTS,Dribble,,Note
+Arda Güler,Real Madrid,20,Milieu offensif,28,1252,3,4,4,6.17,0.29,0.44,0.73,45.00,39,0.7,,6.86
+Brais Mendez,Real Sociedad,28,Milieu offensif,27,1552,3,2,04.05,2.27,0.23,0.13,0.37,22.00,28,1.1,,6.52
+Jude Bellingham,Real Madrid,22,Milieu offensif,31,2510,9,8,13.08,4.31,0.47,0.15,0.62,180.00,62,1.3,,7.27
+Moi Gomez,Osasuna,31,Milieu offensif,26,730,0,0,0.35,0.89,0.04,0.11,0.15,2.00,,0.2,,6.17
+Unai Nunez,Athletic Club,28,Milieu offensif,10,643,0,0,0.49,0.03,0.07,0.00,0.07,3.00,,#N/A,,#N/A
+Ivan Sanchez,Real Valladolid,32,Milieu offensif,32,1365,2,1,0.67,2.89,0.04,0.19,0.23,0.60,,0.5,,6.50
+oscar Valentin,Rayo Vallecano,30,Milieu offensif,34,1804,0,0,0.75,0.81,0.04,0.04,0.08,2.50,,0.1,,6.40
+Denis Suarez,Villarreal,31,Milieu offensif,21,583,1,1,1.15,1.69,0.18,0.26,0.44,1.20,,0.5,,6.30
+Mikel Vesga,Athletic Club,32,Milieu offensif,25,977,0,0,1.24,01.04,0.11,0.10,0.21,2.50,,0.2,,6.43
+Munir El Haddadi,Leganes,29,Milieu offensif,25,844,4,0,1.43,0.71,0.15,0.08,0.23,1.50,21,0.8,,6.36
+Ivan Martin,Girona,26,Milieu offensif,32,2054,1,1,1.43,1.89,0.06,0.08,0.15,6.00,,0.3,,6.35
+Andre Almeida,Valencia,25,Milieu offensif,34,2019,0,4,1.44,3.68,0.06,0.16,0.23,10.00,,0.5,,6.57
+Jon Moncayola,Osasuna,27,Milieu offensif,32,2144,0,0,1.58,3.29,0.07,0.14,0.2,7.00,,0.7,,6.54
+Kirian Rodriguez,Las Palmas,29,Milieu offensif,21,1792,0,3,1.69,1.67,0.09,0.08,0.17,1.00,,1,,6.62
+Oihan Sancet,Athletic Club,25,Milieu offensif,29,1645,15,1,10.46,1.86,0.57,0.10,0.67,60.00,50,0.8,,6.82
+Chuki,Real Valladolid,21,Milieu offensif,18,720,2,0,2.61,1.4,0.33,0.18,0.5,1.50,,#N/A,,#N/A
+Selim Amallah,Real Valladolid,28,Milieu offensif,24,1405,3,1,2.62,1.33,0.17,0.08,0.25,1.60,23,0.9,,6.47
+oscar Rodriguez,Leganes,27,Milieu offensif,29,1290,1,4,2.63,2.82,0.18,0.20,0.38,2.00,,1.1,,6.49
+Unai Gomez,Athletic Club,22,Milieu offensif,32,1267,1,3,2.79,01.02,0.20,0.07,0.27,6.00,19,0.6,,6.27
+Carlos Vicente,Alaves,26,Milieu offensif,37,3114,5,5,3.14,6.42,0.09,0.19,0.28,10.00,36,0.9,,6.80
+Randy Nteka,Rayo Vallecano,27,Milieu offensif,24,1151,3,0,3.34,0.76,0.26,0.06,0.32,1.50,16,0.7,,6.34
+Dani Rodriguez,Mallorca,19,Milieu offensif,37,2207,4,7,3.41,4.18,0.14,0.17,0.31,0.80,31,0.8,,6.63
+Martin Zubimendi,Real Sociedad,26,Milieu offensif,36,2966,2,1,3.92,1.21,0.12,0.04,0.16,60.00,,0.5,,6.78
+Aimar Oroz,Osasuna,23,Milieu offensif,37,3027,5,4,4.51,04.08,0.13,0.12,0.26,15.00,48,1.3,,6.74
+Giovani Lo Celso,Real Betis,29,Milieu offensif,25,1437,8,3,4.73,4.67,0.30,0.29,0.59,15.00,34,0.8,,6.99
+Fermin Lopez,Barcelona,22,Milieu offensif,28,1224,6,5,4.76,4.71,0.35,0.35,0.7,50.00,41,1.5,,6.68
+Dani Olmo,Barcelona,27,Milieu offensif,25,1221,10,4,6.64,3.85,0.49,0.28,0.77,60.00,42,0.9,,07.02
+Isco,Real Betis,33,Milieu offensif,22,1565,9,8,8.83,05.05,0.51,0.29,0.8,6.00,44,1.2,,7.20
+Martin Valjent,Mallorca,29,Milieu défensif,31,2773,3,0,1,0.12,0.03,0.00,0.04,6.00,,0.2,,6.70
+Samu Costa,Mallorca,24,Milieu défensif,32,2667,0,2,02.07,1.75,0.07,0.06,0.13,15.00,,0.4,,6.76
+Gerard Moreno,Villarreal,33,Milieu défensif,17,698,3,2,3.9,3.86,0.50,0.50,1,4.00,26,#N/A,,#N/A
+Marc Roca,Real Betis,28,Milieu défensif,14,912,2,2,1.11,1.5,0.11,0.15,0.26,6.00,12,#N/A,,#N/A
+Tamas Nikitscher,Real Valladolid,25,Milieu défensif,13,853,0,0,0.02,0.03,0.00,0.00,0.01,1.00,,#N/A,,#N/A
+Axel Witsel,Atletico Madrid,36,Milieu défensif,14,845,0,1,0.06,0.84,0.01,0.09,0.1,2.00,,#N/A,,#N/A
+Damian Rodriguez,Celta Vigo,22,Milieu défensif,17,934,0,0,0.13,0.77,0.01,0.07,0.09,3.00,,#N/A,,#N/A
+Jailson,Celta Vigo,29,Milieu défensif,13,600,0,0,0.14,0.01,0.02,0.00,0.02,1.00,,#N/A,,#N/A
+Stefan Bajcetic,Las Palmas,20,Milieu défensif,14,986,1,0,0.16,0.22,0.01,0.02,0.03,9.00,,#N/A,,#N/A
+Oriol Romeu,Girona,33,Milieu défensif,25,1357,0,0,0.2,0.55,0.01,0.04,0.05,1.20,,0.2,,6.31
+Hugo Sotelo,Celta Vigo,21,Milieu défensif,24,1268,0,0,0.21,1.46,0.01,0.10,0.12,4.00,,0.2,,6.37
+Enzo Loiodice,Las Palmas,24,Milieu défensif,17,661,0,0,0.22,0.17,0.03,0.02,0.05,1.20,,#N/A,,#N/A
+Stanko Juric,Real Valladolid,28,Milieu défensif,26,1757,0,0,0.39,0.53,0.02,0.03,0.05,1.20,,0.3,,6.36
+Yvan Neyou,Leganes,28,Milieu défensif,30,2344,1,1,0.46,0.71,0.02,0.03,0.04,3.00,16,0.5,,6.56
+Iker Munoz,Osasuna,22,Milieu défensif,23,554,0,1,0.52,0.97,0.08,0.16,0.24,3.00,,0.5,,6.13
+Renato Tapia,Leganes,29,Milieu défensif,34,2442,1,0,0.63,0.27,0.02,0.01,0.03,2.00,,0.4,,6.61
+Lucien Agoume,Sevilla,23,Milieu défensif,35,2113,1,3,0.65,2.38,0.03,0.10,0.13,8.00,10,0.3,,6.62
+Dario Essugo,Las Palmas,20,Milieu défensif,27,1985,1,0,0.65,0.43,0.03,0.02,0.05,20.00,23,0.9,,6.54
+Urko Gonzalez,"Espanyol,Real Sociedad",24,Milieu défensif,18,1441,0,2,0.68,0.87,0.04,0.05,0.1,5.00,,#N/A,,#N/A
+Antonio Blanco,Alaves,24,Milieu défensif,35,2755,0,1,0.71,1.74,0.02,0.06,0.08,10.00,,0.7,,6.48
+Omar Mascarell,Mallorca,32,Milieu défensif,32,1994,1,0,0.86,0.08,0.04,0.00,0.04,0.90,9,0.3,,6.49
+Gerard Gumbau,Rayo Vallecano,30,Milieu défensif,22,824,0,1,1.29,1.19,0.14,0.13,0.27,1.50,,0.6,,6.32
+Nemanja Gudelj,Sevilla,33,Milieu défensif,31,2495,1,1,1.51,0.65,0.05,0.02,0.08,3.00,,0.7,,6.60
+Mario Martin,Real Valladolid,21,Milieu défensif,30,1740,0,1,1.67,1.38,0.09,0.07,0.16,1.50,,0.9,,6.17
+Antonio Rüdiger,Real Madrid,32,Milieu défensif,29,2291,0,0,1.81,0.56,0.07,0.02,0.09,20.00,,0.8,,6.61
+Aurelien Tchouameni,Real Madrid,25,Milieu défensif,32,2697,0,0,1.82,0.72,0.06,0.02,0.08,75.00,,0.3,,6.88
+Pepelu,Valencia,26,Milieu défensif,34,1691,2,1,1.95,2.57,0.10,0.14,0.24,9.00,,0.4,,6.51
+Carlos Romero,Espanyol,23,Milieu défensif,34,2566,2,1,2.48,2.1,0.09,0.07,0.16,5.00,,0.9,,6.69
+Johnny Cardoso,Real Betis,23,Milieu défensif,28,2147,3,1,2.67,0.73,0.11,0.03,0.14,25.00,19,0.9,,6.87
+Lucas Torro,Osasuna,30,Milieu défensif,35,2983,3,0,2.67,0.98,0.08,0.03,0.11,3.00,31,0.2,,6.84
+Florian Lejeune,Rayo Vallecano,34,Milieu défensif,37,3329,2,3,3.58,1.93,0.10,0.05,0.15,2.50,,0.1,,6.85
+Conor Gallagher,Atletico Madrid,25,Milieu central,32,1637,3,3,3,1.31,0.16,0.07,0.24,40.00,22,0.7,,6.62
+Valentin Rosier,Leganes,28,Milieu central,32,2583,1,2,01.02,1.11,0.04,0.04,0.07,3.00,,0.7,,6.77
+Frenkie de Jong,Barcelona,28,Milieu central,26,1105,2,2,01.02,2.3,0.08,0.19,0.27,45.00,5,0.2,,6.53
+Pablo Marin,Real Sociedad,21,Milieu central,23,1224,1,2,2.2,1.17,0.16,0.09,0.25,8.00,,0.9,,6.41
+Alvaro Rodriguez,Getafe,20,Milieu central,22,831,2,0,1.3,0.64,0.14,0.07,0.21,2.50,25,1.1,,6.59
+Mikel Oyarzabal,Real Sociedad,28,Milieu central,35,2291,9,3,10.3,2.9,0.40,0.11,0.52,25.00,43,1.2,,6.46
+Mikel Jauregizar,Athletic Club,21,Milieu central,34,2244,2,1,01.04,1.6,0.04,0.06,0.11,30.00,21,0.6,,6.77
+Darko Brasanac,Leganes,33,Milieu central,30,1606,1,2,02.05,0.32,0.12,0.02,0.13,0.50,,0.4,,6.34
+Gavi,Barcelona,20,Milieu central,26,1079,1,1,01.06,1.65,0.09,0.14,0.23,60.00,11,0.4,,6.48
+Antonio Raillo,Mallorca,33,Milieu central,36,3211,2,0,2.8,1.89,0.08,0.05,0.13,1.80,,0.1,,6.87
+Jose Gragera,Espanyol,25,Milieu central,10,580,0,0,0.04,0.02,0.01,0.00,0.01,2.00,,#N/A,,#N/A
+Jose Campana,Las Palmas,32,Milieu central,25,1208,0,3,0.14,0.89,0.01,0.07,0.08,0.90,,0.2,,6.41
+Pol Lozano,Espanyol,25,Milieu central,30,2015,0,1,0.16,1,0.01,0.04,0.05,5.00,,0.3,,6.41
+Sergi Gomez,Espanyol,33,Milieu central,12,648,0,0,0.17,0,0.02,0.00,0.02,0.60,,#N/A,,#N/A
+Arthur Melo,Girona,28,Milieu central,15,943,0,0,0.27,0.18,0.03,0.02,0.04,5.00,,#N/A,,#N/A
+Dani Ceballos,Real Madrid,28,Milieu central,23,1235,0,0,0.31,1.94,0.02,0.14,0.16,10.00,,0.3,,6.58
+Benat Turrientes,Real Sociedad,23,Milieu central,21,933,0,0,0.34,0.37,0.03,0.04,0.07,10.00,,0.3,,6.28
+Manu Morlanes,Mallorca,26,Milieu central,23,1335,0,0,0.45,0.45,0.03,0.03,0.06,2.50,,0.5,,6.51
+Gimenez,Atletico Madrid,30,Milieu central,27,1984,0,1,0.46,0.36,0.02,0.02,0.04,20.00,,#N/A,,#N/A
+Jon Martin,Real Sociedad,19,Milieu central,13,884,0,1,0.5,0.16,0.05,0.02,0.07,8.00,,#N/A,,#N/A
+Javi Sanchez,Real Valladolid,28,Milieu central,25,2050,2,0,0.52,0.48,0.02,0.02,0.04,1.50,,0.4,,6.41
+Marcos Llorente,Atletico Madrid,30,Milieu central,33,2515,2,4,0.68,3.79,0.02,0.14,0.16,25.00,,0.4,,6.90
+Albert Sambi Lokonga,Sevilla,25,Milieu central,22,1482,0,2,0.77,1.4,0.05,0.09,0.13,8.00,,0.6,,6.37
+Lucas Rosa,Real Valladolid,25,Milieu central,21,1890,0,1,0.86,02.02,0.04,0.10,0.14,3.00,,0.4,,6.54
+Eduardo Camavinga,Real Madrid,22,Milieu central,19,1079,1,2,0.89,0.91,0.07,0.08,0.15,60.00,,0.8,,6.93
+Benat Prados,Athletic Club,24,Milieu central,30,1736,1,0,0.91,01.09,0.05,0.06,0.1,18.00,,0.5,,6.63
+Marc Casado,Barcelona,21,Milieu central,23,1640,1,3,0.91,1.63,0.05,0.09,0.14,30.00,14,0.2,,6.75
+Ander Guevara,Alaves,27,Milieu central,33,1969,0,1,0.97,0.67,0.04,0.03,0.08,3.50,,0.4,,6.40
+Edu Exposito,Espanyol,28,Milieu central,19,1044,0,2,1.19,3.67,0.10,0.32,0.42,3.00,,0.8,,6.74
+Carles Alena,"Alaves,Getafe",27,Milieu central,24,1568,0,2,1.25,02.07,0.07,0.12,0.19,2.50,,#N/A,,#N/A
+Aitor Ruibal,Real Betis,29,Milieu central,29,1287,1,3,1.27,2.65,0.09,0.19,0.27,3.50,16,0.6,,6.50
+Pablo Barrios,Atletico Madrid,22,Milieu central,31,2347,1,4,1.37,2.93,0.05,0.11,0.16,55.00,29,0.8,,6.76
+Donny van de Beek,Girona,28,Milieu central,26,1435,2,2,1.39,3.2,0.09,0.20,0.29,5.00,18,0.7,,6.45
+Unai Lopez,Rayo Vallecano,29,Milieu central,32,1740,3,1,1.56,0.91,0.08,0.05,0.13,2.50,26,0.8,,6.52
+Manu Sanchez,Alaves,24,Milieu central,33,2651,1,0,1.61,1.18,0.05,0.04,0.09,6.00,,0.4,,6.45
+Sergi Altimira,Real Betis,23,Milieu central,32,1985,0,1,1.64,1.77,0.07,0.08,0.15,15.00,,0.7,,6.44
+Miguel Gutierrez,Girona,23,Milieu central,29,2477,1,5,1.87,4.6,0.07,0.15,0.22,20.00,,1,,6.71
+Sergi Darder,Mallorca,31,Milieu central,38,2811,2,6,1.89,4.96,0.06,0.16,0.22,4.00,36,0.9,,6.74
+Enzo Boyomo,"Osasuna,Real Valladolid",23,Milieu central,37,3254,2,0,1.94,01.02,0.05,0.03,0.08,20.00,,0.4,,6.68
+Alex Kral,Espanyol,27,Milieu central,37,2699,0,1,1.97,2.12,0.07,0.07,0.14,6.00,,0.6,,6.50
+Javi Puado,Espanyol,27,Milieu central,35,3023,12,4,11.95,2.97,0.36,0.09,0.44,10.00,71,2,,6.56
+Ilaix Moriba,Celta Vigo,22,Milieu central,33,2115,1,1,2.14,2.32,0.09,0.10,0.19,6.00,34,1,,6.57
+Kike Salas,Sevilla,23,Milieu central,31,2238,3,2,2.17,0.75,0.09,0.03,0.12,8.00,,0.1,,6.74
+Seydouba Cisse,Leganes,24,Milieu central,34,2494,3,1,2.29,0.88,0.08,0.03,0.11,3.00,,0.7,,6.58
+Javi Guerra,Valencia,22,Milieu central,36,2642,3,3,2.31,3.46,0.08,0.12,0.2,25.00,,1.3,,6.54
+Pedri,Barcelona,22,Milieu central,37,2941,4,5,2.51,7.81,0.08,0.24,0.32,140.00,24,1.1,,7.16
+Federico Valverde,Real Madrid,26,Milieu central,36,3035,6,4,2.51,4.41,0.07,0.13,0.21,130.00,57,0.4,,7.16
+Pathe Ciss,Rayo Vallecano,31,Milieu central,33,2166,4,1,2.56,1.44,0.11,0.06,0.17,2.00,21,0.6,,6.62
+Fernando Lopez,Celta Vigo,21,Milieu central,17,654,2,0,2.64,2.18,0.36,0.30,0.66,5.00,,#N/A,,#N/A
+Dani Parejo,Villarreal,36,Milieu central,36,2279,3,3,2.64,1.28,0.10,0.05,0.15,1.50,,0.4,,6.69
+Djibril Sow,Sevilla,28,Milieu central,30,2095,2,1,2.68,02.02,0.12,0.09,0.2,7.50,22,0.7,,6.53
+Javi Rodriguez,Celta Vigo,22,Milieu central,36,2490,3,2,2.71,1.14,0.10,0.04,0.14,15.00,,0.3,,6.56
+Pedro Diaz,Rayo Vallecano,27,Milieu central,26,1199,3,0,2.71,2.28,0.20,0.17,0.37,3.00,,1.2,,6.44
+Ramon Terrats,"Getafe,Villarreal",24,Milieu central,26,1356,4,1,2.91,3.27,0.19,0.22,0.41,4.00,19,#N/A,,#N/A
+Carles Perez,Getafe,27,Milieu central,27,1438,3,0,3.45,1.21,0.22,0.08,0.29,2.00,,1.3,,6.45
+Saul niguez,Sevilla,30,Milieu central,24,1556,1,6,3.65,2.11,0.21,0.12,0.33,3.00,,#N/A,,#N/A
+Luka Sucic,Real Sociedad,22,Milieu central,29,1804,1,1,3.66,3.43,0.18,0.17,0.35,15.00,,1.5,,6.54
+Pape Gueye,Villarreal,26,Milieu central,34,2246,4,0,3.89,1.54,0.16,0.06,0.22,15.00,54,0.3,,6.71
+Luis Rioja,"Alaves,Valencia",31,Milieu central,37,2898,4,3,3.95,4.48,0.12,0.14,0.26,2.00,30,1.2,,6.71
+Joan Jordan,Alaves,30,Milieu central,25,1397,5,2,4.28,2.17,0.28,0.14,0.42,2.50,17,0.7,,6.61
+Jon Guridi,Alaves,30,Milieu central,33,2149,3,1,4.34,1.14,0.18,0.05,0.23,3.00,24,0.7,,6.43
+Santi Comesana,Villarreal,28,Milieu central,35,2597,4,2,4.79,2.94,0.17,0.10,0.27,8.00,39,0.5,,6.78
+Yangel Herrera,Girona,27,Milieu central,29,2293,4,3,4.83,2.41,0.19,0.09,0.28,15.00,39,0.7,,6.82
+Alberto Moleiro,Las Palmas,21,Milieu central,35,2765,6,1,5.75,3.68,0.19,0.12,0.31,25.00,68,1.9,,6.70
+Dani Raba,Leganes,29,Milieu central,29,1925,8,6,7.21,6.13,0.34,0.29,0.62,2.50,44,1.6,,07.01
+Alex Berenguer,Athletic Club,29,Milieu central,36,2381,6,7,7.48,6.5,0.28,0.23,0.51,9.00,52,0.9,,6.82
+Mauro Arambarri,Getafe,29,Milieu central,35,2670,10,0,9.48,0.65,0.32,0.02,0.34,12.00,56,1.6,,6.67
+Antonio Sanchez,Mallorca,28,Miilieu central,33,1353,0,0,1.29,0.42,0.09,0.03,0.11,2.50,,0.5,,6.30
+Andre Ferreira,Real Valladolid,29,Gardien de but,6,540,0,0,0,0,0.00,0.00,0,0.70,,#N/A,,#N/A
+Inaki Pena,Barcelona,26,Gardien de but,16,1393,0,0,0,0,0.00,0.00,0,8.00,,#N/A,,#N/A
+Rui Silva,Real Betis,31,Gardien de but,15,1350,0,0,0,0.08,0.00,0.01,0.01,7.00,,#N/A,,#N/A
+Leo Roman,Mallorca,24,Gardien de but,7,630,0,0,0,0,0.00,0.00,0,5.00,,#N/A,,#N/A
+alvaro Fernandez,Sevilla,27,Gardien de but,9,744,0,0,0,0.05,0.00,0.01,0.01,2.00,,#N/A,,#N/A
+Andriy Lunin,Real Madrid,26,Gardien de but,7,630,0,1,0,0.92,0.00,0.13,0.13,18.00,,#N/A,,#N/A
+Julen Agirrezabala,Athletic Club,24,Gardien de but,14,1212,0,0,0,0,0.00,0.00,0,15.00,,#N/A,,#N/A
+Marc-Andre ter Stegen,Barcelona,33,Gardien de but,8,677,0,0,0,0,0.00,0.00,0,12.00,,#N/A,,#N/A
+Luiz Junior,Villarreal,24,Gardien de but,17,1455,0,0,0,0,0.00,0.00,0,10.00,,#N/A,,#N/A
+Dani Cardenas,Rayo Vallecano,28,Gardien de but,6,540,0,0,0,0,0.00,0.00,0,1.80,,#N/A,,#N/A
+Dinko Horkas,Las Palmas,26,Gardien de but,13,1081,0,0,0,0,0.00,0.00,0,1.20,,#N/A,,#N/A
+Wojciech Szczesny,Barcelona,35,Gardien de but,15,1350,0,0,0,0,0.00,0.00,0,1.00,,#N/A,,#N/A
+Juan Soriano,Leganes,27,Gardien de but,6,540,0,0,0,0,0.00,0.00,0,1.00,,#N/A,,#N/A
+Thibaut Courtois,Real Madrid,33,Gardien de but,30,2700,0,0,0,0.17,0.00,0.01,0.01,20.00,,-,,6.80
+Unai Simon,Athletic Club,28,Gardien de but,21,1890,0,0,0,0,0.00,0.00,0,28.00,,-,,6.71
+Marko Dmitrovic,Leganes,33,Gardien de but,32,2880,0,0,0,0.1,0.00,0.00,0,0.80,,-,,6.71
+Dominik Greif,Mallorca,28,Gardien de but,31,2790,0,0,0,0,0.00,0.00,0,6.00,,-,,6.69
+Jan Oblak,Atletico Madrid,32,Gardien de but,36,3240,0,0,0,0.02,0.00,0.00,0,20.00,,-,,6.68
+David Soria,Getafe,32,Gardien de but,38,3420,0,0,0,0,0.00,0.00,0,3.00,,-,,6.61
+Jasper Cillessen,Las Palmas,36,Gardien de but,27,2339,0,0,0,0,0.00,0.00,0,0.80,,-,,6.61
+Karl Hein,Real Valladolid,23,Gardien de but,31,2790,0,0,0,0,0.00,0.00,0,3.00,,-,,6.57
+Diego Conde,Villarreal,26,Gardien de but,22,1965,0,1,0,0.4,0.00,0.02,0.02,7.50,,-,,6.54
+Giorgi Mamardashvili,Valencia,24,Gardien de but,34,3060,0,0,0,0.07,0.00,0.00,0,30.00,,-,,6.54
+Paulo Gazzaniga,Girona,33,Gardien de but,36,3198,0,0,0,0,0.00,0.00,0,2.50,,-,,6.54
+Vicente Guaita,Celta Vigo,38,Gardien de but,34,3060,0,0,0,0,0.00,0.00,0,0.70,,-,,6.51
+Antonio Sivera,Alaves,28,Gardien de but,32,2817,0,0,0,0.04,0.00,0.00,0,6.00,,-,,6.50
+Augusto Batalla,Rayo Vallecano,29,Gardien de but,32,2880,0,0,0,0.03,0.00,0.00,0,6.00,,0.2,,6.48
+Ørjan Nyland,Sevilla,34,Gardien de but,30,2676,0,0,0,0.36,0.00,0.01,0.01,0.90,,-,,6.37
+Adrian,Real Betis,38,Gardien de but,19,1710,0,0,0,0,0.00,0.00,0,0.50,,-,,6.34
+Sergio Herrera,Osasuna,32,Gardien de but,37,3330,0,0,0,0,0.00,0.00,0,3.00,,-,,6.73
+Pau Navarro,Villarreal,20,Gardien de but,17,902,0,0,0.02,0.01,0.00,0.00,0,3.00,,#N/A,,#N/A
+Aleksandar Sedlar,Alaves,33,Gardien de but,9,599,0,0,0.02,0,0.00,0.00,0,0.30,,#N/A,,#N/A
+Joan Garcia,Espanyol,24,Gardien de but,38,3420,0,0,0.07,0,0.00,0.00,0,25.00,,-,,6.94
+Alex Remiro,Real Sociedad,30,Gardien de but,36,3240,0,0,0,0,0.00,0.00,0,18.00,,-,,6.58
+Dani Gomez,Valencia,26,Deuxième attaquant,14,504,2,0,2.7,0.03,0.48,0.01,0.49,1.00,13,#N/A,,#N/A
+Stoichkov,Alaves,31,Deuxième attaquant,16,675,0,1,1.19,01.03,0.16,0.14,0.3,1.50,18,#N/A,,#N/A
+Iker Losada,"Celta Vigo,Real Betis",23,Deuxième attaquant,22,670,1,0,1.72,0.96,0.23,0.13,0.36,1.50,3,#N/A,,#N/A
+Peque,Sevilla,22,Deuxième attaquant,26,1144,1,1,1.95,1.34,0.15,0.11,0.26,3.50,19,#N/A,,#N/A
+Isi Palazon,Rayo Vallecano,30,Deuxième attaquant,35,2166,4,4,5.38,4.51,0.22,0.19,0.41,3.50,61,1.7,,6.70
+Antoine Griezmann,Atletico Madrid,34,Deuxième attaquant,38,2514,8,7,8.41,8.12,0.30,0.29,0.59,18.00,50,0.4,,6.83
+Marcão,Sevilla,29,Défenseur central,12,547,0,0,0,0,0.00,0.00,0,2.00,,#N/A,,#N/A
+Yoel Lago,Celta Vigo,21,Défenseur central,8,589,0,1,0,0.03,0.00,0.01,0.01,1.00,,#N/A,,#N/A
+Logan Costa,Villarreal,24,Défenseur central,32,2596,2,1,1,0.32,0.03,0.01,0.05,18.00,,0.4,,6.58
+David Lopez,Girona,22,Défenseur central,29,2429,1,1,01.02,0.78,0.04,0.03,0.07,1.00,,0.4,,6.56
+Alex Sola,Getafe,26,Défenseur central,19,1077,0,1,01.02,1.14,0.09,0.10,0.18,2.50,,0.8,,6.31
+Clement Lenglet,Atletico Madrid,30,Défenseur central,23,1987,2,1,2.2,0.95,0.10,0.04,0.14,7.50,,0.1,,6.87
+Yarek Gasiorowski,Valencia,20,Défenseur central,15,944,0,0,01.03,0.16,0.10,0.02,0.11,7.50,,#N/A,,#N/A
+Dani Vivian,Athletic Club,25,Défenseur central,32,2590,4,0,2.3,0.67,0.08,0.02,0.1,40.00,,0.3,,6.97
+Robin Le Normand,Atletico Madrid,28,Défenseur central,27,2140,1,0,1.4,0.68,0.06,0.03,0.09,40.00,,0.1,,6.74
+Javi Munoz,Las Palmas,30,Défenseur central,35,2592,1,3,02.04,2.32,0.07,0.08,0.15,2.00,,0.7,,6.51
+Moussa Diarra,Alaves,24,Défenseur central,26,1855,0,0,0.02,0.17,0.00,0.01,0.01,1.80,,-,,6.30
+Joseph Aidoo,"Celta Vigo,Real Valladolid",29,Défenseur central,9,589,0,0,0.04,0,0.01,0.00,0.01,1.20,,#N/A,,#N/A
+Jon Pacheco,Real Sociedad,24,Défenseur central,14,849,0,0,0.09,0.06,0.01,0.01,0.02,6.00,,#N/A,,#N/A
+Juanpe,Girona,34,Défenseur central,12,720,0,0,0.09,0.18,0.01,0.02,0.03,0.60,,#N/A,,#N/A
+Facundo Garces,Alaves,25,Défenseur central,10,670,0,0,0.11,0.76,0.02,0.10,0.12,2.00,,#N/A,,#N/A
+Cenk Özkacar,Real Valladolid,24,Défenseur central,11,750,0,0,0.11,0.03,0.01,0.00,0.02,1.20,,#N/A,,#N/A
+Raul Albiol,Villarreal,39,Défenseur central,15,1186,0,0,0.11,0,0.01,0.00,0.01,1.00,,#N/A,,#N/A
+Matija Nastasic,Leganes,32,Défenseur central,26,2118,1,0,0.14,0.09,0.01,0.00,0.01,0.80,,0.1,,6.61
+Alejandro Frances,Girona,22,Défenseur central,18,1188,0,0,0.16,0.33,0.01,0.03,0.04,2.00,,#N/A,,#N/A
+Tanguy Nianzou,Sevilla,23,Défenseur central,6,524,0,0,0.17,0,0.03,0.00,0.03,1.50,,#N/A,,#N/A
+Juma Bah,Real Valladolid,19,Défenseur central,12,862,0,0,0.18,0.02,0.02,0.00,0.02,6.00,,#N/A,,#N/A
+Cesar Azpilicueta,Atletico Madrid,35,Défenseur central,14,881,1,0,0.18,0.09,0.02,0.01,0.03,1.50,,#N/A,,#N/A
+Carlos Dominguez,Celta Vigo,24,Défenseur central,19,1178,0,0,0.19,0.06,0.01,0.00,0.02,3.00,,0.2,,6.53
+David Torres,Real Valladolid,22,Défenseur central,18,1384,0,0,0.21,0.01,0.01,0.00,0.01,1.50,,#N/A,,#N/A
+Florian Grillitsch,Real Valladolid,29,Défenseur central,13,627,0,0,0.23,0.65,0.03,0.09,0.13,2.00,,#N/A,,#N/A
+Dakonam Djene,Getafe,33,Défenseur central,31,2566,0,0,0.23,0.58,0.01,0.02,0.03,1.80,,#N/A,,#N/A
+Willy Kambwala,Villarreal,20,Défenseur central,19,1097,0,0,0.23,0.07,0.02,0.01,0.02,4.00,,0.2,,6.32
+Eric Bailly,Villarreal,31,Défenseur central,12,632,0,0,0.24,0,0.03,0.00,0.03,2.00,,#N/A,,#N/A
+alex Suarez,Las Palmas,32,Défenseur central,30,2498,0,0,0.32,0.19,0.01,0.01,0.02,1.00,,0.2,,6.25
+Cristhian Mosquera,Valencia,21,Défenseur central,37,3322,1,0,0.35,0,0.01,0.00,0.01,30.00,,0.1,,6.54
+Inigo Ruiz,Athletic Club,31,Défenseur central,26,1502,0,4,0.37,3.47,0.02,0.21,0.23,3.00,,#N/A,,#N/A
+Daley Blind,Girona,35,Défenseur central,34,2774,0,2,0.42,2.21,0.01,0.07,0.09,1.50,,0.3,,6.60
+Mika Marmol,Las Palmas,23,Défenseur central,30,2398,0,1,0.46,1.56,0.02,0.06,0.08,10.00,,0.3,,6.56
+Domingos Duarte,Getafe,30,Défenseur central,22,1865,1,0,0.48,0.04,0.02,0.00,0.03,0.80,,0.1,,6.55
+Natan,Real Betis,24,Défenseur central,31,2163,1,1,0.49,1.27,0.02,0.05,0.07,9.00,,0.3,,6.56
+Carl Starfelt,Celta Vigo,30,Défenseur central,28,2273,1,0,0.5,0.18,0.02,0.01,0.03,6.00,,-,,6.76
+Inigo Martinez,Barcelona,34,Défenseur central,28,2505,0,4,0.51,2.25,0.02,0.08,0.1,5.00,,0.1,,6.91
+Aritz Elustondo,Real Sociedad,31,Défenseur central,22,1452,0,0,0.51,0.22,0.03,0.01,0.05,3.00,,0.2,,6.48
+Jose Copete,Mallorca,25,Défenseur central,25,1511,0,0,0.55,0,0.03,0.00,0.03,3.00,,#N/A,,#N/A
+Juan Berrocal,Getafe,26,Défenseur central,19,1061,0,0,0.56,0.01,0.05,0.00,0.05,1.50,,0.2,,6.24
+Fernando Calero,Espanyol,29,Défenseur central,21,675,1,0,0.57,0.05,0.08,0.01,0.08,1.50,,0.1,,6.38
+Juanma Herzog,Las Palmas,21,Défenseur central,19,1321,0,0,0.59,0,0.04,0.00,0.04,2.50,,#N/A,,#N/A
+Yeray alvarez,Athletic Club,30,Défenseur central,21,1784,1,0,0.61,0.48,0.03,0.02,0.05,7.00,,0.3,,07.04
+Eder Militao,Real Madrid,27,Défenseur central,12,938,1,1,0.7,0.5,0.07,0.05,0.11,30.00,,#N/A,,#N/A
+Abdul Mumin,Rayo Vallecano,27,Défenseur central,24,2020,2,1,0.76,0.19,0.03,0.01,0.04,5.00,,0.2,,6.81
+Loïc Bade,Sevilla,25,Défenseur central,32,2682,1,1,0.82,0.36,0.03,0.01,0.04,25.00,,0.5,,6.76
+Abdel Abqar,Alaves,26,Défenseur central,29,2489,0,1,0.86,0.24,0.03,0.01,0.04,7.50,,0.4,,6.53
+Igor Zubeldia,Real Sociedad,28,Défenseur central,28,2283,0,0,0.91,0.29,0.04,0.01,0.05,12.00,,0.4,,6.61
+Aridane Hernandez,Rayo Vallecano,36,Défenseur central,14,1026,0,0,1.14,0.05,0.10,0.00,0.1,0.30,,#N/A,,#N/A
+Ronald Araujo,Barcelona,26,Défenseur central,12,771,1,1,1.17,0.49,0.14,0.06,0.19,35.00,,#N/A,,#N/A
+Scott McKenna,Las Palmas,28,Défenseur central,29,2468,0,0,1.19,0.25,0.04,0.01,0.05,4.00,,0.3,,6.49
+Eray Cömert,Real Valladolid,27,Défenseur central,25,1800,0,0,1.21,0,0.06,0.00,0.06,2.00,,0.4,,6.13
+Enzo Barrenechea,Valencia,24,Défenseur central,30,2245,1,2,1.26,0.83,0.05,0.03,0.08,10.00,,0.4,,6.71
+Mouctar Diakhaby,Valencia,28,Défenseur central,13,641,2,0,1.32,0.02,0.19,0.00,0.19,2.00,,#N/A,,#N/A
+Jose Gaya,Valencia,30,Défenseur central,23,1839,0,1,1.33,3.39,0.07,0.17,0.23,9.00,,#N/A,,#N/A
+Marc Bartra,Real Betis,34,Défenseur central,25,2101,2,1,1.37,0.14,0.06,0.01,0.06,1.00,,0.3,,6.94
+Juan Iglesias,Getafe,26,Défenseur central,37,2888,0,1,1.42,02.03,0.04,0.06,0.11,3.50,,0.6,,6.67
+Leandro Cabrera,Espanyol,34,Défenseur central,33,2878,4,2,1.61,0.93,0.05,0.03,0.08,1.00,,-,,6.77
+Ladislav Krejci,Girona,26,Défenseur central,28,2436,2,0,1.68,0.33,0.06,0.01,0.07,12.00,,0.6,,6.54
+Jorge Herrando,Osasuna,24,Défenseur central,18,1362,1,0,1.73,0,0.11,0.00,0.11,4.00,,#N/A,,#N/A
+Jorge Saenz,Leganes,28,Défenseur central,23,1694,1,0,1.82,0.14,0.10,0.01,0.1,1.50,,0.2,,6.81
+Diego Llorente,Real Betis,31,Défenseur central,30,2521,2,0,1.84,0.37,0.07,0.01,0.08,6.00,,0.2,,6.87
+Sergio Gonzalez,Leganes,33,Défenseur central,36,2966,2,0,1.96,0.58,0.06,0.02,0.08,0.80,,0.4,,6.62
+Ander Barrenetxea,Real Sociedad,23,Défenseur central,30,1271,1,3,1.97,2.45,0.14,0.17,0.31,15.00,,0.8,,6.31
+Omar Alderete,Getafe,28,Défenseur central,34,2999,1,0,2.14,0.91,0.06,0.03,0.09,8.00,,0.5,,6.91
+Nayef Aguerd,Real Sociedad,29,Défenseur central,21,1772,0,0,2.15,0.35,0.11,0.02,0.13,18.00,,0.2,,6.93
+Kike Perez,Real Valladolid,28,Défenseur central,19,1225,2,0,2.24,1.38,0.16,0.10,0.27,2.80,,1.1,,6.50
+Cesar Tarrega,Valencia,23,Défenseur central,34,3029,2,0,2.28,0.11,0.07,0.00,0.07,10.00,,0.3,,6.74
+Eric Garcia,Barcelona,24,Défenseur central,29,1532,2,3,2.35,1.1,0.14,0.06,0.2,18.00,,0.2,,6.73
+Aitor Paredes,Athletic Club,25,Défenseur central,23,1828,3,0,2.49,0.06,0.12,0.00,0.13,22.00,,0.3,,6.54
+Marash Kumbulla,Espanyol,25,Défenseur central,35,2981,3,0,2.69,0.29,0.08,0.01,0.09,7.50,,0.1,,6.74
+Borja Mayoral,Getafe,28,Avant-centre,24,1064,5,1,4.1,1.32,0.35,0.11,0.46,7.50,20,0.8,,6.35
+Anastasios Douvikas,Celta Vigo,25,Avant-centre,20,690,3,1,5.1,0.23,0.67,0.03,0.7,10.00,17,#N/A,,#N/A
+Sandro Ramirez,Las Palmas,29,Avant-centre,31,2086,9,3,4.3,3.5,0.19,0.15,0.34,2.50,52,1.7,,6.68
+Diego Garcia,Leganes,25,Avant-centre,28,1171,3,0,4.4,0.26,0.34,0.02,0.36,1.50,29,1,,6.22
+Oliver McBurnie,Las Palmas,29,Avant-centre,34,1835,3,6,06.04,3.45,0.30,0.17,0.47,2.50,32,0.9,,6.54
+Thierno Barry,Villarreal,22,Avant-centre,35,2322,11,4,15.06,3.67,0.58,0.14,0.73,20.00,73,0.5,,6.83
+Vitor Roque,Real Betis,20,Avant-centre,22,1252,4,0,06.07,1.75,0.44,0.13,0.56,20.00,41,1.9,,6.47
+Abel Ruiz,Girona,25,Avant-centre,23,1383,4,0,4.9,0.44,0.32,0.03,0.35,4.00,23,1,,6.31
+Irvin Cardona,Espanyol,27,Avant-centre,16,577,1,1,0.88,0.87,0.14,0.13,0.27,2.50,10,#N/A,,#N/A
+Walid Cheddira,Espanyol,27,Avant-centre,22,587,1,1,1.42,01.04,0.22,0.16,0.38,2.50,13,0.6,,6.19
+Chimy Avila,Real Betis,31,Avant-centre,19,642,2,0,1.83,1.35,0.26,0.19,0.45,2.00,20,1.1,,6.36
+Sergio Gomez,Real Sociedad,24,Avant-centre,37,2745,2,5,1.88,8.35,0.06,0.27,0.34,20.00,18,0.6,,6.79
+Inaki Williams,Athletic Club,31,Avant-centre,35,2659,6,8,10.16,8.79,0.34,0.30,0.64,15.00,63,0.9,,6.89
+Kike Garcia,Alaves,35,Avant-centre,35,2571,13,0,10.71,0.76,0.38,0.03,0.4,0.90,63,0.4,,6.71
+Hugo Duro,Valencia,25,Avant-centre,31,2180,11,2,10.97,1.45,0.45,0.06,0.51,14.00,48,1.6,,6.59
+Vedat Muriqi,Mallorca,31,Avant-centre,29,2081,7,2,10.99,2.7,0.48,0.12,0.59,5.00,54,0.3,,6.72
+Borja Iglesias,Celta Vigo,32,Avant-centre,37,1968,11,3,11.55,3.18,0.53,0.15,0.67,3.00,46,1.2,,6.52
+Julian Alvarez,Atletico Madrid,25,Avant-centre,37,2543,17,4,14.16,6.46,0.50,0.23,0.73,100.00,73,0.9,,07.01
+Ayoze Perez,Villarreal,31,Avant-centre,30,1987,19,2,15.23,3.13,0.69,0.14,0.83,10.00,75,1.1,,7.11
+Alejo Veliz,Espanyol,21,Avant-centre,27,1115,1,0,2.34,0.07,0.19,0.01,0.19,2.50,19,0.7,,6.24
+Jaime Mata,Las Palmas,36,Avant-centre,30,571,0,0,2.45,0.11,0.39,0.02,0.4,0.40,17,0.5,,6.11
+Rafa Mir,Valencia,28,Avant-centre,20,716,1,2,2.54,0.94,0.32,0.12,0.44,0.80,27,1.4,,6.27
+Bertug Yildirim,Getafe,22,Avant-centre,22,1101,1,0,2.61,1.14,0.21,0.09,0.31,2.00,19,0.9,,6.37
+Bojan Miovski,Girona,26,Avant-centre,17,898,2,1,2.68,0.17,0.27,0.02,0.29,2.50,14,#N/A,,#N/A
+Roberto Navarro,Mallorca,23,Avant-centre,23,1302,1,0,2.83,1.88,0.20,0.13,0.33,6.00,18,#N/A,,#N/A
+Alexander Sørloth,Atletico Madrid,29,Avant-centre,35,1525,20,2,20.45,1.3,1.21,0.08,1.28,25.00,79,0.4,,6.95
+Ante Budimir,Osasuna,33,Avant-centre,38,3008,21,4,20.67,1.88,0.62,0.06,0.67,5.00,99,0.3,,6.98
+Robert Lewandowski,Barcelona,36,Avant-centre,34,2716,27,2,29.41,2.48,0.97,0.08,01.06,12.00,115,0.6,,7.27
+Maroan Sannadi,Athletic Club,24,Avant-centre,16,743,1,1,3.25,1.21,0.39,0.15,0.54,10.00,19,#N/A,,#N/A
+Roberto Fernandez,Espanyol,22,Avant-centre,19,1537,6,0,3.25,0.89,0.19,0.05,0.24,6.00,21,1.1,,6.67
+Raul Garcia,Osasuna,24,Avant-centre,32,673,4,0,3.33,0.69,0.45,0.09,0.54,3.00,25,0.8,,6.25
+Sergi Cardona,Villarreal,25,Avant-centre,35,2974,1,7,3.42,06.03,0.10,0.18,0.29,10.00,20,0.3,,6.90
+Christantus Uche,Getafe,22,Avant-centre,33,2542,4,6,3.54,4.28,0.13,0.15,0.28,15.00,50,1.5,,6.67
+Cedric Bakambu,Real Betis,34,Avant-centre,25,661,2,2,3.76,0.84,0.51,0.11,0.63,1.50,24,0.9,,6.21
+Antonio Martinez,Alaves,28,Avant-centre,28,965,4,0,3.82,0.68,0.36,0.06,0.42,2.50,46,#N/A,,#N/A
+Kylian Mbappe,Real Madrid,26,Avant-centre,34,2938,31,3,30.14,9.39,0.92,0.29,1.21,180.00,161,2.4,,7.75
+Umar Sadiq,"Real Sociedad,Valencia",28,Avant-centre,23,1040,5,0,4.48,0.89,0.39,0.08,0.47,5.00,20,#N/A,,#N/A
+Juanmi Latasa,Real Valladolid,24,Avant-centre,28,1376,3,0,4.55,0.58,0.30,0.04,0.34,2.00,40,1.4,,6.31
+Cucho Hernandez,Real Betis,26,Avant-centre,15,1172,5,1,4.77,1.61,0.37,0.12,0.49,18.00,43,#N/A,,#N/A
+Mamadou Sylla,Real Valladolid,31,Avant-centre,29,1569,5,1,4.97,0.96,0.29,0.06,0.34,1.20,22,0.8,,6.23
+Orri oskarsson,Real Sociedad,20,Avant-centre,23,929,3,0,5.61,0.17,0.54,0.02,0.56,15.00,19,0.8,,6.22
+Miguel De la Fuente,Leganes,25,Avant-centre,34,1708,1,3,5.79,1.13,0.31,0.06,0.36,2.00,35,1,,6.17
+Gorka Guruzeta,Athletic Club,28,Avant-centre,36,1856,7,2,6.79,1.45,0.33,0.07,0.4,9.00,59,1.6,,6.51
+Cyle Larin,Mallorca,30,Avant-centre,32,1781,7,2,7.24,1.58,0.37,0.08,0.45,3.50,39,1.2,,6.35
+Isaac Romero,Sevilla,25,Avant-centre,31,2200,4,2,8.18,2.59,0.33,0.11,0.44,6.00,54,1.7,,6.39
+Iago Aspas,Celta Vigo,37,Avant-centre,30,1751,10,5,8.27,4.82,0.43,0.25,0.67,2.00,52,0.5,,6.73
+Cristhian Stuani,Girona,38,Avant-centre,32,998,11,2,8.71,0.43,0.79,0.04,0.82,1.00,34,1.1,,6.41
+Fabio Silva,Las Palmas,22,Avant-centre,24,1902,10,3,9.28,2.49,0.44,0.12,0.56,20.00,49,0.9,,6.87
+Ferran Torres,Barcelona,25,Avant-centre,27,1093,10,6,9.68,3.56,0.80,0.29,01.09,40.00,48,0.4,,6.73
+Ferland Mendy,Real Madrid,30,Arrière gauche,14,1019,0,1,0,0.64,0.00,0.06,0.06,14.00,,#N/A,,#N/A
+Toni Lato,Mallorca,27,Arrière gauche,14,615,0,0,0,0.32,0.00,0.05,0.05,1.80,,#N/A,,#N/A
+Reinildo Mandava,Atletico Madrid,31,Arrière gauche,19,916,0,0,0.05,0.18,0.01,0.02,0.02,5.00,,0.1,,6.39
+Raul Asencio,Real Madrid,22,Arrière gauche,23,1675,0,1,0.07,0.76,0.00,0.04,0.04,40.00,,0.3,,6.78
+Juan Cruz,Osasuna,25,Arrière gauche,25,1509,0,0,0.12,0.03,0.01,0.00,0.01,5.00,,1.2,,6.73
+Javi Lopez,Real Sociedad,23,Arrière gauche,29,1934,0,0,0.14,0.87,0.01,0.04,0.05,7.50,,0.2,,6.34
+Aihen Munoz,Real Sociedad,27,Arrière gauche,21,1098,0,0,0.16,0.13,0.01,0.01,0.02,4.00,,0.3,,6.44
+Ricardo Rodriguez,Real Betis,32,Arrière gauche,18,1282,0,1,0.24,0.35,0.02,0.02,0.04,2.00,,#N/A,,#N/A
+Javi Galan,Atletico Madrid,30,Arrière gauche,25,1806,0,2,0.24,3.32,0.01,0.17,0.18,4.00,,1.1,,6.85
+Adam Aznou,Real Valladolid,19,Arrière gauche,13,884,0,0,0.27,0.53,0.03,0.05,0.08,4.00,,#N/A,,#N/A
+Jesus Vazquez,Valencia,22,Arrière gauche,19,907,0,0,0.27,0.53,0.03,0.05,0.08,3.00,,0.3,,6.37
+Diego Rico,Getafe,32,Arrière gauche,33,2822,0,3,0.33,3.29,0.01,0.10,0.12,1.20,,0.2,,6.74
+Adama Boiro,Athletic Club,23,Arrière gauche,18,1120,0,0,0.39,0.41,0.03,0.03,0.06,2.50,,#N/A,,#N/A
+Enric Franquesa,Leganes,28,Arrière gauche,12,612,1,0,0.39,0.06,0.06,0.01,0.07,1.50,,#N/A,,#N/A
+Brian Olivan,Espanyol,31,Arrière gauche,17,1020,0,1,0.41,0.94,0.04,0.08,0.12,1.80,,#N/A,,#N/A
+Jon Aramburu,Real Sociedad,22,Arrière gauche,35,2466,1,1,0.45,0.9,0.02,0.03,0.05,15.00,,0.2,,6.71
+Abel Bretones,Osasuna,24,Arrière gauche,35,2061,2,0,0.45,1.11,0.02,0.05,0.07,4.00,,0.3,,6.50
+Yuri Berchiche,Athletic Club,35,Arrière gauche,30,2027,0,2,0.59,1.93,0.03,0.09,0.11,1.40,,0.5,,6.63
+Romain Perraud,Real Betis,27,Arrière gauche,28,2005,2,2,0.6,1.94,0.03,0.09,0.11,5.00,,0.7,,6.44
+Gerard Martin,Barcelona,23,Arrière gauche,28,1018,1,3,0.64,1.3,0.06,0.11,0.17,12.00,,0.3,,6.43
+Juan Bernat,"Getafe,Villarreal",32,Arrière gauche,24,892,0,2,0.69,1.1,0.07,0.11,0.18,2.00,,#N/A,,#N/A
+Alfonso Espino,Rayo Vallecano,33,Arrière gauche,16,835,0,1,0.71,0.66,0.08,0.07,0.15,1.20,,#N/A,,#N/A
+Manu Fuster,Las Palmas,27,Arrière gauche,28,958,2,1,0.75,1.39,0.07,0.13,0.2,1.50,,0.6,,6.39
+Johan Mojica,Mallorca,32,Arrière gauche,36,2747,1,2,0.77,4.5,0.03,0.15,0.17,2.00,,0.5,,6.58
+Adrià Pedrosa,Sevilla,27,Arrière gauche,31,2323,1,1,0.87,1.72,0.03,0.07,0.1,7.00,,0.8,,6.64
+Sergio Carreira,Celta Vigo,24,Arrière gauche,23,1658,0,4,0.95,2.71,0.05,0.15,0.2,4.00,,0.6,,6.58
+Javi Hernandez,Leganes,27,Arrière gauche,31,2401,2,1,1.13,1.54,0.04,0.06,0.1,2.50,,0.5,,6.46
+alex Munoz,Las Palmas,30,Arrière gauche,21,1443,3,0,1.15,0.53,0.07,0.03,0.1,1.00,,0.4,,6.58
+Fran Garcia,Real Madrid,25,Arrière gauche,31,2180,0,2,1.22,2.22,0.05,0.09,0.14,18.00,,0.3,,6.75
+Pep Chavarria,Rayo Vallecano,27,Arrière gauche,34,2574,0,1,1.25,1.71,0.04,0.06,0.1,5.00,,0.3,,6.58
+Pablo Ibanez,Osasuna,26,Arrière gauche,28,1286,1,1,1.41,1.21,0.10,0.08,0.18,2.00,,0.7,,6.34
+Juan Foyth,Villarreal,27,Arrière gauche,19,1515,1,0,2.26,0.4,0.13,0.02,0.16,15.00,,0.2,,6.98
+Alejandro Catena,Osasuna,30,Arrière gauche,35,3086,1,3,2.98,2.51,0.09,0.07,0.16,3.00,,0.2,,6.86
+Marcos Alonso,Celta Vigo,34,Arrière gauche,31,2660,3,0,4.14,1.85,0.14,0.06,0.2,1.50,,0.5,,6.74
+Javier Manquillo,Celta Vigo,31,Arrière droit,10,533,0,0,0,0,0.00,0.00,0,1.00,,#N/A,,#N/A
+Nahuel Molina,Atletico Madrid,27,Arrière droit,30,1565,0,3,1,1.93,0.06,0.11,0.17,20.00,,0.3,,6.54
+Daniel Carvajal,Real Madrid,33,Arrière droit,8,613,1,0,1.1,0.13,0.16,0.02,0.18,8.00,,#N/A,,#N/A
+Santiago Mourino,Alaves,23,Arrière droit,25,1827,0,1,01.01,0.95,0.05,0.05,0.1,3.00,,0.2,,6.80
+angel Correa,Atletico Madrid,30,Arrière droit,31,721,4,1,5.4,02.08,0.67,0.26,0.93,10.00,34,1.1,,6.32
+Koke,Atletico Madrid,33,Arrière droit,32,1915,1,1,1.5,1.33,0.07,0.06,0.13,8.00,,0.3,,6.55
+Ivan Balliu,Rayo Vallecano,33,Arrière droit,25,1167,0,0,0.02,0.34,0.00,0.03,0.03,1.40,,-,,6.32
+Omar El Hilali,Espanyol,21,Arrière droit,36,3173,0,2,0.03,1.21,0.00,0.03,0.04,15.00,,0.5,,6.80
+Antonio Candela,Real Valladolid,25,Arrière droit,12,935,0,0,0.05,0.39,0.00,0.04,0.04,1.80,,#N/A,,#N/A
+Viti Rozada,Las Palmas,27,Arrière droit,29,2005,0,2,0.07,1.42,0.00,0.06,0.07,2.00,,0.1,,6.58
+Hector Bellerin,Real Betis,30,Arrière droit,9,569,0,2,0.11,1.82,0.02,0.29,0.31,2.00,,#N/A,,#N/A
+Inigo Lekue,Athletic Club,32,Arrière droit,16,757,0,0,0.14,0.57,0.02,0.07,0.08,2.00,,#N/A,,#N/A
+Youssouf Sabaly,Real Betis,32,Arrière droit,22,1612,0,1,0.23,0.58,0.01,0.03,0.05,1.80,,0.2,,6.28
+Marvin Park,Las Palmas,24,Arrière droit,23,1008,0,0,0.23,1.28,0.02,0.11,0.13,1.20,,0.2,,6.25
+Adria Alti,Leganes,24,Arrière droit,22,1645,0,0,0.25,0.59,0.01,0.03,0.05,1.50,,#N/A,,#N/A
+Hector Fort,Barcelona,18,Arrière droit,17,552,0,0,0.27,1.3,0.04,0.21,0.26,10.00,,#N/A,,#N/A
+Andoni Gorosabel,Athletic Club,28,Arrière droit,20,1508,0,2,0.29,2.37,0.02,0.14,0.16,5.00,,0.4,,6.77
+Kiko Femenia,Villarreal,34,Arrière droit,28,2242,0,1,0.32,2.13,0.01,0.09,0.1,0.90,,0.1,,6.66
+Hamari Traore,Real Sociedad,33,Arrière droit,11,725,0,1,0.33,0.16,0.04,0.02,0.06,2.00,,#N/A,,#N/A
+Pablo Maffeo,Mallorca,27,Arrière droit,30,2385,0,2,0.34,4.4,0.01,0.17,0.18,5.00,,1.4,,6.87
+Mateu Morey,Mallorca,25,Arrière droit,16,734,0,0,0.44,0.25,0.05,0.03,0.08,0.80,,#N/A,,#N/A
+Allan Nyom,Getafe,37,Arrière droit,20,877,1,2,0.54,0.37,0.06,0.04,0.09,0.30,,0.4,,6.31
+Alejandro Balde,Barcelona,21,Arrière droit,32,2303,0,4,0.55,3.66,0.02,0.14,0.16,60.00,,1.4,,6.73
+Thierry Correia,Valencia,26,Arrière droit,11,782,0,0,0.57,0.3,0.07,0.03,0.1,3.00,,#N/A,,#N/A
+Jesus Areso,Osasuna,25,Arrière droit,36,3111,0,3,0.57,3.45,0.02,0.10,0.12,12.00,,0.2,,6.55
+Jose angel Carmona,Sevilla,23,Arrière droit,35,2993,0,0,0.6,1.95,0.02,0.06,0.08,12.00,,0.5,,6.70
+Dimitri Foulquier,Valencia,32,Arrière droit,32,2293,0,1,0.61,1.56,0.02,0.06,0.09,1.50,,0.4,,6.37
+Alvaro Tejero,Espanyol,28,Arrière droit,28,1227,1,4,0.67,3.33,0.05,0.24,0.29,1.80,,0.6,,6.45
+Ruben Pena,Osasuna,33,Arrière droit,25,737,0,0,0.86,0.51,0.11,0.06,0.17,1.20,10,0.4,,6.19
+alvaro Djalo,Athletic Club,25,Arrière droit,17,637,1,0,0.9,01.09,0.13,0.15,0.28,5.00,15,#N/A,,#N/A
+Pau Cubarsi,Barcelona,18,Arrière droit,35,2631,0,3,0.94,1.54,0.03,0.05,0.08,80.00,,0.2,,6.73
+De Marcos,Athletic Club,36,Arrière droit,26,1554,0,4,1.16,2.86,0.07,0.17,0.23,1.50,,#N/A,,#N/A
+Jon Ander Olasagasti,Real Sociedad,24,Arrière droit,22,821,1,1,1.22,01.06,0.13,0.12,0.25,4.00,,#N/A,,#N/A
+Lucas Vazquez,Real Madrid,33,Arrière droit,32,2218,1,5,1.87,5.29,0.08,0.21,0.29,3.00,,0.5,,6.67
+Pablo Fornals,Real Betis,29,Arrière droit,26,1876,2,0,1.94,03.07,0.09,0.15,0.24,6.00,23,0.9,,6.58
+Andrei Ratiu,Rayo Vallecano,27,Arrière droit,35,3066,2,3,2.14,5.58,0.06,0.16,0.23,12.00,,2.2,,6.90
+oscar Mingueza,Celta Vigo,26,Arrière droit,34,2761,4,6,2.16,5.68,0.07,0.19,0.26,20.00,,1,,6.66
+Arnau Martinez,Girona,22,Arrière droit,32,2631,2,2,2.59,1.92,0.09,0.07,0.15,10.00,,0.6,,6.64
+Jules Kounde,Barcelona,26,Arrière droit,32,2606,2,3,2.74,4.13,0.09,0.14,0.24,65.00,,0.7,,6.89
+Nahuel Tenaglia,Alaves,29,Arrière droit,34,2930,2,1,2.74,1.93,0.08,0.06,0.14,3.00,,0.5,,6.89
+Juanlu Sanchez,Sevilla,21,Arrière droit,32,1740,4,4,2.92,2.71,0.15,0.14,0.29,12.00,,0.4,,6.55
+Marcos Andre,Real Valladolid,28,Arrière droit,22,1213,1,2,3.19,1.41,0.24,0.10,0.34,1.00,22,1,,6.34
+Sergio Camello,Rayo Vallecano,24,Arrière droit,23,1150,3,2,3.94,2.31,0.31,0.18,0.49,3.00,32,1.4,,6.48
+Luis Perez,Real Valladolid,30,Aririère droit,30,2548,0,0,0.15,2.61,0.01,0.09,0.1,1.40,,0.2,,6.43
+alex Baena,Villarreal,23,Ailier gauche,32,2639,7,9,7.2,12.61,0.25,0.43,0.68,55.00,70,0.7,,7.22
+Nico Williams,Athletic Club,22,Ailier gauche,29,1994,5,5,4.6,4.17,0.21,0.19,0.4,70.00,54,2.3,,6.98
+Samuel Lino,Atletico Madrid,25,Ailier gauche,31,1580,3,4,06.08,3.48,0.35,0.20,0.54,22.00,45,0.9,,6.72
+Alfon Gonzalez,Celta Vigo,26,Ailier gauche,26,1382,5,2,4.9,3.2,0.32,0.21,0.53,5.00,45,1.8,,6.52
+Jonathan Bamba,Celta Vigo,29,Ailier gauche,12,823,0,1,0.66,1.87,0.07,0.20,0.28,3.50,13,#N/A,,#N/A
+Chidera Ejuke,Sevilla,27,Ailier gauche,25,917,2,1,0.95,1.6,0.09,0.16,0.25,4.00,20,0.8,,6.61
+Darwin Machis,Real Valladolid,32,Ailier gauche,18,621,0,1,1.14,01.08,0.16,0.16,0.32,0.60,14,#N/A,,#N/A
+Yan Diomande,Leganes,18,Ailier gauche,10,544,2,1,1.27,0.82,0.21,0.14,0.35,1.50,11,#N/A,,#N/A
+Coba da Costa,Getafe,22,Ailier gauche,19,1003,1,1,1.43,1.63,0.13,0.15,0.27,3.00,23,1.2,,6.55
+Rodrigo de Paul,Atletico Madrid,31,Ailier gauche,34,2137,3,5,1.47,5.93,0.06,0.25,0.31,25.00,19,0.6,,6.69
+Luis Milla,Getafe,30,Ailier gauche,33,2887,1,4,1.86,4.25,0.06,0.13,0.19,3.50,32,0.6,,6.78
+Sheraldo Becker,Real Sociedad,30,Ailier gauche,22,996,2,1,1.88,1.79,0.17,0.16,0.33,2.50,22,1,,6.29
+Vinicius Junior,Real Madrid,24,Ailier gauche,30,2267,11,8,12.78,8.64,0.51,0.34,0.85,170.00,81,2.7,,7.23
+Raphinha,Barcelona,28,Ailier gauche,36,2862,18,10,19.27,13.53,0.61,0.43,01.03,90.00,114,1.4,,7.62
+Bryan Gil,Girona,24,Ailier gauche,25,1769,3,3,2.35,2.93,0.12,0.15,0.27,15.00,32,1.6,,6.71
+Carlos Martin,Alaves,23,Ailier gauche,26,1367,2,2,2.48,2.59,0.16,0.17,0.33,2.80,26,1,,6.44
+Jesus Rodriguez,Real Betis,19,Ailier gauche,21,1143,2,0,2.51,0.36,0.20,0.03,0.23,30.00,23,1.1,,6.57
+Hugo alvarez,Celta Vigo,21,Ailier gauche,26,1572,4,3,2.69,1.6,0.15,0.09,0.25,7.50,25,1,,6.60
+Juan Cruz,Leganes,25,Ailier gauche,34,2292,5,4,2.75,4.15,0.11,0.16,0.27,5.00,33,1.2,,6.73
+Ruben Vargas,Sevilla,26,Ailier gauche,11,693,2,1,2.79,01.03,0.36,0.13,0.5,7.00,17,#N/A,,#N/A
+Bryan Zaragoza,Osasuna,23,Ailier gauche,27,1887,1,6,3.27,4.37,0.16,0.21,0.36,12.00,42,2.1,,6.79
+Tomas Conechny,Alaves,27,Ailier gauche,22,837,1,0,3.48,0.35,0.37,0.04,0.41,1.80,22,1,,6.29
+Juanmi,"Getafe,Real Betis",32,Ailier gauche,24,914,0,0,3.69,0.84,0.36,0.08,0.45,2.00,13,#N/A,,#N/A
+Arnaut Danjuma,"Girona,Villarreal",28,Ailier gauche,28,1562,4,0,4.42,2.28,0.25,0.13,0.39,4.00,30,1.2,,6.37
+Raul Moro,Real Valladolid,22,Ailier gauche,33,2352,4,5,4.52,5.58,0.17,0.21,0.39,7.50,45,1.4,,6.70
+Williot Swedberg,Celta Vigo,21,Ailier gauche,32,1329,4,5,5.42,2.35,0.37,0.16,0.53,5.00,32,1,,6.44
+alvaro Garcia,Rayo Vallecano,32,Ailier gauche,36,2581,4,5,7.54,5.74,0.26,0.20,0.46,2.00,71,2,,6.61
+Abde Ezzalzouli,Real Betis,23,Ailier gauche,32,2038,2,2,9.59,2.41,0.42,0.11,0.53,12.00,62,1.9,,6.66
+Takefusa Kubo,Real Sociedad,24,Ailier droit ,36,2392,5,0,4.22,5.49,0.16,0.21,0.37,30.00,43,2.1,,6.77
+Giuliano Simeone,Atletico Madrid,22,Ailier droit,33,1988,2,6,3,7.18,0.14,0.33,0.46,35.00,22,0.7,,6.66
+Pablo Duran,Celta Vigo,24,Ailier droit,27,1393,4,4,3.1,3.18,0.20,0.21,0.41,3.50,26,1,,6.48
+Jorge De Frutos,Rayo Vallecano,28,Ailier droit,36,2573,6,3,07.01,4.13,0.25,0.14,0.39,4.00,52,1.4,,6.56
+Jofre Carreras,Espanyol,24,Ailier droit,37,2217,3,3,3.2,2.5,0.13,0.10,0.23,3.00,45,1.1,,6.42
+Antoniu Roca,Espanyol,22,Ailier droit,26,1023,0,1,01.06,1.2,0.09,0.11,0.2,1.80,,0.4,,6.35
+Ilias Akhomach,Villarreal,21,Ailier droit,11,604,1,0,0.61,1.25,0.09,0.19,0.28,15.00,17,#N/A,,#N/A
+Suso,Sevilla,31,Ailier droit,16,572,0,2,0.63,2.18,0.10,0.34,0.44,1.50,16,#N/A,,#N/A
+Fran Beltran,Celta Vigo,26,Ailier droit,34,2443,2,1,0.9,2.11,0.03,0.08,0.11,8.00,,0.7,,6.48
+Adnan Januzaj,Las Palmas,30,Ailier droit,18,563,2,1,0.99,1.17,0.16,0.19,0.35,1.20,16,#N/A,,#N/A
+Luka Modric,Real Madrid,39,Ailier droit,35,1774,2,6,1.62,7.9,0.08,0.40,0.48,4.00,,0.4,,6.84
+Portu,Girona,33,Ailier droit,27,728,1,2,1.76,1.63,0.22,0.20,0.42,1.80,8,0.3,,6.21
+Yaser Asprilla,Girona,21,Ailier droit,27,1392,3,1,1.98,03.06,0.13,0.20,0.33,15.00,38,1.4,,6.54
+Lamine Yamal,Barcelona,17,Ailier droit,35,2879,9,13,11.59,14.47,0.36,0.45,0.81,200.00,144,4.6,,08.01
+Anuar Mohamed,Real Valladolid,30,Ailier droit,26,1748,2,0,2.26,1.19,0.12,0.06,0.18,0.90,,#N/A,,#N/A
+Adrian Embarba,Rayo Vallecano,33,Ailier droit,35,1603,1,1,2.27,2.51,0.13,0.14,0.27,1.20,,#N/A,,#N/A
+Antony,Real Betis,25,Ailier droit,17,1372,5,2,2.78,4.68,0.18,0.31,0.49,35.00,43,#N/A,,#N/A
+Ruben Garcia,Osasuna,31,Ailier droit,36,2481,5,5,2.82,05.07,0.10,0.18,0.29,2.00,27,0.3,,6.86
+Viktor Tsygankov,Girona,27,Ailier droit,27,1947,2,5,2.96,4.15,0.14,0.19,0.33,18.00,,1.3,,6.66
+Takuma Asano,Mallorca,30,Ailier droit,21,1071,2,1,2.96,0.93,0.25,0.08,0.33,2.50,28,1.3,,6.33
+Yeremy Pino,Villarreal,22,Ailier droit,34,1984,4,7,3.98,5.79,0.18,0.26,0.44,30.00,29,0.7,,6.74
+Rodrygo,Real Madrid,24,Ailier droit,30,1965,6,5,4.72,4,0.22,0.18,0.4,90.00,54,1.6,,7.13
+Nicolas Pepe,Villarreal,30,Ailier droit,28,1483,3,6,5.28,5.5,0.32,0.33,0.65,6.00,39,1,,6.77
+Brahim Diaz,Real Madrid,25,Ailier droit,31,1368,4,2,6.34,3.3,0.42,0.22,0.63,40.00,28,0.9,,6.59
+Diego Lopez,Valencia,23,Ailier droit,38,2839,8,5,6.93,5.98,0.22,0.19,0.41,15.00,44,1.2,,6.59
+Dodi Lukebakio,Sevilla,27,Ailier droit,38,3117,11,2,9.24,5.39,0.27,0.16,0.42,20.00,94,2.2,,6.93
