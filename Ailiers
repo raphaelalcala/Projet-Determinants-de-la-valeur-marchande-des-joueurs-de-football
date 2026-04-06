@@ -1,0 +1,82 @@
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+from sklearn.preprocessing import StandardScaler
+
+df = pd.read_csv("Attaquants.csv")
+
+f_M = df[df["Poste"].isin(["Ailier gauche" , "Ailier droit"])].copy()
+
+f_M["log_val"] = np.log(f_M["Valeur marchande(mio)"])
+
+
+f_M["assists_90"] = (f_M["assists"] / f_M["min"]) * 90
+
+f_M["Age_c"]  = f_M["Age"] - f_M["Age"].mean()
+f_M["Age_c2"] = f_M["Age_c"] ** 2
+
+features = ["Age_c", "Age_c2","Dribble","xA90","xG90","min"]
+y = f_M["log_val"]
+
+scaler = StandardScaler()
+X_scaled = pd.DataFrame(
+    scaler.fit_transform(f_M[features]),
+    columns=features,
+    index=f_M.index
+)
+X_scaled = sm.add_constant(X_scaled)
+
+#HC3 pour hétéroscédasticité
+model = sm.OLS(y, X_scaled).fit(cov_type='HC3')
+print(model.summary())
+
+from statsmodels.stats.diagnostic import het_breuschpagan
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+bp = het_breuschpagan(model.resid, model.model.exog)
+print(f"Breusch-Pagan p-value : {bp[1]:.4f}")
+
+
+for i, col in enumerate(["const"] + features):
+    vif = variance_inflation_factor(model.model.exog, i)
+    print(f"VIF {col:25s} : {vif:.2f}")
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                log_val   R-squared:                       0.772
+Model:                            OLS   Adj. R-squared:                  0.745
+Method:                 Least Squares   F-statistic:                     36.12
+Date:                Mon, 06 Apr 2026   Prob (F-statistic):           1.05e-16
+Time:                        06:16:02   Log-Likelihood:                -60.703
+No. Observations:                  58   AIC:                             135.4
+Df Residuals:                      51   BIC:                             149.8
+Df Model:                           6                                         
+Covariance Type:                  HC3                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.8932      0.105     18.033      0.000       1.687       2.099
+Age_c         -0.6018      0.161     -3.748      0.000      -0.916      -0.287
+Age_c2        -0.3107      0.166     -1.867      0.062      -0.637       0.015
+Dribble        0.3151      0.152      2.072      0.038       0.017       0.613
+xA90           0.4321      0.130      3.317      0.001       0.177       0.687
+xG90           0.3441      0.094      3.677      0.000       0.161       0.528
+min            0.1769      0.081      2.185      0.029       0.018       0.336
+==============================================================================
+Omnibus:                        3.329   Durbin-Watson:                   2.154
+Prob(Omnibus):                  0.189   Jarque-Bera (JB):                2.756
+Skew:                           0.532   Prob(JB):                        0.252
+Kurtosis:                       3.083   Cond. No.                         2.79
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+Breusch-Pagan p-value : 0.0156
+VIF const                     : 1.00
+VIF Age_c                     : 1.31
+VIF Age_c2                    : 1.14
+VIF Dribble                   : 2.19
+VIF xA90                      : 1.31
+VIF xG90                      : 1.14
+VIF min                       : 1.67
+
