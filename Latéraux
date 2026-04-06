@@ -1,0 +1,70 @@
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+from sklearn.preprocessing import StandardScaler
+
+df = pd.read_csv("Défenseurs.csv")
+
+f_M = df[df["Poste"].isin(["Arrière droit" , "Arrière gauche"])].copy()
+
+f_M["log_val"] = np.log(f_M["Valeur marchande(mio)"])
+
+f_M["Age_c"]  = f_M["Age"] - f_M["Age"].mean()
+f_M["Age_c2"] = f_M["Age_c"] ** 2
+
+features = ["Age_c", "Age_c2", "Key passes"]  #aucun autres significatifs
+y = f_M["log_val"]
+
+scaler = StandardScaler()
+X_scaled = pd.DataFrame(
+    scaler.fit_transform(f_M[features]),
+    columns=features,
+    index=f_M.index
+)
+X_scaled = sm.add_constant(X_scaled)
+
+model = sm.OLS(y, X_scaled).fit()
+print(model.summary())
+
+from statsmodels.stats.diagnostic import het_breuschpagan
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+bp = het_breuschpagan(model.resid, model.model.exog)
+print(f"Breusch-Pagan p-value : {bp[1]:.4f}")
+
+
+for i, col in enumerate(["const"] + features):
+    vif = variance_inflation_factor(model.model.exog, i)
+    print(f"VIF {col:25s} : {vif:.2f}")
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                log_val   R-squared:                       0.483
+Model:                            OLS   Adj. R-squared:                  0.453
+Method:                 Least Squares   F-statistic:                     15.91
+Date:                Mon, 06 Apr 2026   Prob (F-statistic):           1.98e-07
+Time:                        06:20:37   Log-Likelihood:                -63.295
+No. Observations:                  55   AIC:                             134.6
+Df Residuals:                      51   BIC:                             142.6
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.2675      0.107     11.835      0.000       1.052       1.483
+Age_c         -0.6616      0.107     -6.164      0.000      -0.877      -0.446
+Age_c2        -0.0710      0.108     -0.656      0.515      -0.288       0.146
+Key passes     0.3508      0.108      3.243      0.002       0.134       0.568
+==============================================================================
+Omnibus:                        4.590   Durbin-Watson:                   1.730
+Prob(Omnibus):                  0.101   Jarque-Bera (JB):                3.530
+Skew:                           0.541   Prob(JB):                        0.171
+Kurtosis:                       3.609   Cond. No.                         1.16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Breusch-Pagan p-value : 0.4472
+VIF const                     : 1.00
+VIF Age_c                     : 1.00
+VIF Age_c2                    : 1.02
+VIF Key passes                : 1.02
